@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "cnbz6gw81",
+      "name": "Cookie",
+      "price": "1111111111111111",
+      "saleprice": "1212",
+      "shortdesc": "2000",
+      "desc": "adsdsa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(1).jpg?alt=media&token=1d5e410d-97e1-45b5-afaa-16dc41faf3e3"
+    },
+    {
+      "id": "vaqpvzo0d",
+      "name": "Cookie",
+      "price": "1111111111111111",
+      "saleprice": "",
+      "shortdesc": "2000",
+      "desc": "qda",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(1).jpg?alt=media&token=72e64a0f-8723-494d-b0a5-8800f6dd4566"
+    },
+    {
+      "id": "sl3zdpksz",
+      "name": "đâs",
+      "price": "12312",
+      "saleprice": "",
+      "shortdesc": "2000",
+      "desc": "dsad",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=3ec202e7-0ef3-4467-969c-2b50171bc533"
+    },
+    {
+      "id": "ytff8g9ij",
+      "name": "đâs",
+      "price": "1111111111111111",
+      "saleprice": "",
+      "shortdesc": "2000",
+      "desc": "đá",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/products%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=57399a9b-63fc-4b9f-9da1-5fbf5b9dab67"
+    }
+  ],
+  "categories": [
+    {
+      "name": "haiiii",
+      "desc": "ádas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=b76ff5ed-a511-42b9-bfa8-d255c2360d52",
+      "show_menu": "1",
+      "id": "ie0aPJc"
+    },
+    {
+      "name": "Cookie",
+      "desc": "dsadsa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/categories%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=6c8ed1a0-3d63-4485-8539-2c0deb11f36f",
+      "show_menu": "1",
+      "id": "AWuZF6I"
+    }
+  ]
+}
